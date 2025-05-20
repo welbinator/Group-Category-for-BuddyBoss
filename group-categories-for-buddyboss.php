@@ -16,3 +16,5 @@ require_once GCBB_PLUGIN_DIR . 'includes/group-meta.php';
 require_once GCBB_PLUGIN_DIR . 'includes/taxonomy-images.php';
 require_once GCBB_PLUGIN_DIR . 'includes/shortcodes.php';
 require_once GCBB_PLUGIN_DIR . 'includes/admin-menu.php';
+require_once GCBB_PLUGIN_DIR . 'includes/template-loader.php';
+
